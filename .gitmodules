@@ -1,0 +1,3 @@
+[submodule "amlies2021"]
+	path = amlies2021
+	url = ssh://git@mybitbucket.llnl.gov:7999/gmlc/amlies2021.git
