@@ -275,3 +275,4 @@ tags
 *.png
 tools/private.py
 *private*
+*.pkl
